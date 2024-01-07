@@ -7,8 +7,8 @@ const poppins = Poppins({ weight: [ '200', '400', '600', '800'], subsets: ['lati
 
 
 export const metadata = {
-  title: 'KeuanganKU - Buat Catatan Keuanganmu',
-  description: 'KeuanganKU adalah aplikasi pencatatan keuangan yang dibuat untuk memudahkan pengguna dalam mencatat keuangan sehari-hari.',
+  title: 'Dinamik18 - Buat Catatan Keuanganmu',
+  description: 'Dinamik18 catat keuangan yang dibuat untuk memudahkan pengguna dalam mencatat keuangan acara.',
 };
 
 export default function RootLayout({ children }) {
