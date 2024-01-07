@@ -28,7 +28,7 @@ const Navbar = () => {
     <header
       className="bg-zinc-900 py-3 gap-2 md:items-center px-3 md:px-8 text-white flex justify-between md:flex-row flex-col"
       style={{
-        backgroundImage: "url(/cover.png)",
+        backgroundImage: "url(/Cover.png)",
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
